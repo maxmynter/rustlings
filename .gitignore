@@ -1,3 +1,6 @@
 Cargo.lock
 target/
 .vscode/
+exercises/**/*
+!exercises/**/*.rs
+!exercises/**/README.md
